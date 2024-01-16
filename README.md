@@ -1,4 +1,5 @@
 # neural-net-regression
+![](https://zenodo.org/badge/DOI/10.5281/zenodo.10518811.svg)
 
 This is the code used to optimize the weights of an under-parameterized neural network.
 Training is done via gradient flow using MLPGradientFlow.jl (https://arxiv.org/abs/2301.10638). 
